@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='AndroidDeynenko4.3.1'
